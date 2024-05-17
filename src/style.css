@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0f0f0;  background: linear-gradient(to right, #021838, #810871, rgb(67, 33, 67));
+    background-color: #f0f0f0;  background: linear-gradient(to right, #021831, #509178, rgb(6, 101, 3));
     background-size: 200% auto;
     animation: 10s unset;
     animation: gradientMovement 10s linear infinite;
@@ -17,7 +17,7 @@ body {
 }
 
 .container:hover {
-  background: linear-gradient(to right, #76a5eb, #e4d9e3, rgb(234, 206, 234));
+  background: linear-gradient(to right, #76a5eb, #e4d9e3, rgb(8, 116, 99));
   background-size: 200% auto;
   animation: 10s unset;
   animation: gradientMovement 10s linear infinite;
