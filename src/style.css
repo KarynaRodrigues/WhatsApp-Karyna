@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0f0f0;  background: linear-gradient(to right, #021831, #509178, rgb(6, 101, 3));
+    background-color: #f0f0f0;  background: linear-gradient(to right, #021831, #509179, rgb(6, 101, 3));
     background-size: 200% auto;
     animation: 10s unset;
     animation: gradientMovement 10s linear infinite;
